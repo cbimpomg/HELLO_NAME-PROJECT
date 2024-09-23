@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(116, 152, 185);
+
+
+}
+.container{
+text-align: center;  
+}
+
+span{
+color: red;
+}
+
+button{
+    background-color: violet;
+    box-shadow: 0 0 12px 8px rgb(228, 220, 220);
+    color: aliceblue;
+    border: 2px solid honeydew;
+    cursor: pointer;
+}
